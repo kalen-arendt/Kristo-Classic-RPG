@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Test 1.unity
+    guid: 112e6c8b0eff01442b7f5bf20e81e0ca
+  - enabled: 1
+    path: Assets/Scenes/02-0 Countryside 1.unity
+    guid: b66bdcc1a91a28c4c8fbeb7aacc9feea
+  - enabled: 1
+    path: Assets/Scenes/02-0 Countryside 0.unity
+    guid: 0051083f4c0d9ef4db8058252c8c6591
+  - enabled: 1
+    path: Assets/Scenes/02-0 Countryside 2.unity
+    guid: aefc1a546eddfd843b4616e497c748de
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 6adba2a25f24f794e8911f9b902ee389,
+      type: 2}
