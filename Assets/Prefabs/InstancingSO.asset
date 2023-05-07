@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3613b365c445af48934250508eca946, type: 3}
+  m_Name: InstancingSO
+  m_EditorClassIdentifier: 
+  player: {fileID: 7580383170023007150, guid: ef0859a11eebe464a8ab67fa5f201845, type: 3}
+  uiCanvas: {fileID: 977731037172450735, guid: d6e56791c7d0aef48ae01d6aa90281e1, type: 3}
+  gameManager: {fileID: 7689090087072299661, guid: 74f658f8b78124b4481b81ff418406a1,
+    type: 3}

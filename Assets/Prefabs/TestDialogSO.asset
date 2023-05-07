@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fc8d2633f78fd94baf488dc88dc1b8c, type: 3}
+  m_Name: TestDialogSO
+  m_EditorClassIdentifier: 
+  dialog:
+    dialog:
+    - speakerName: NPC
+      message:
+        messageLines:
+        - Hi, I'm NPC!
+        - I can say things!
+    - speakerName: Kristo
+      message:
+        messageLines:
+        - Yea whatever man.
